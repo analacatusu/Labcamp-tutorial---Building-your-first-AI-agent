@@ -1,0 +1,15 @@
+{
+    "supervisor_prompts": {
+      "prepareForRejectionPrompt": "Based on the thermos bottle you described above, tell me the potential reasons why he wouldn't agree to send bottles as a Christmas gift."
+    },
+    "marketing_prompts": {
+      "suggestFestiveEngravingPrompt": "Please suggest a festive engraving on the bottle, that is not too long and includes REPLY, the company's name.",
+      "writePitch": "Write me a compelling pitch to sell the idea of the previous thermos bottle as a Christmas gift to my supervisor, Kevin. Include the features that you described previously. Use the festive engraving, REPLY: Holiday Hydration. Please save the pitch only in the file pitch_idea_thermos_v3.txt."
+    },
+    "assistant_prompts": {
+      "saveGoogleCalendarToCsv": "Access my Google Calendar for the next 8 days and write the meetings in a csv file.",
+      "createCalendarMeeting": "From the CSV file that contains my availability please suggest three suitable times for a one-hour marketing meeting during work hours 9AM-5:30PM. Prefer meeting times in the morning. If not possible, suggest also meeting times after lunch. Make sure to not suggest meeting times during the weekend (Saturdays and Sundays). Prefer days when the calendar is not so full. Do not set up meetings during lunchtime between 12PM and 13PM. Only use the time slots in the file.",
+      "emailPrompt": "Based on the previous response suggest to my supervisor, Kevin, some meeting times to discuss a potential Christmas gift for the employees. It should be an email. Be polite, but friendly. Send the email to Kevin using the following recipient: anam.lacatusu@gmail.com. This is the sender's email: anam.lacatusu@gmail.com. Find an appropriate email subject. Use the name Ana to sign the email at the end."
+    }
+  }
+  

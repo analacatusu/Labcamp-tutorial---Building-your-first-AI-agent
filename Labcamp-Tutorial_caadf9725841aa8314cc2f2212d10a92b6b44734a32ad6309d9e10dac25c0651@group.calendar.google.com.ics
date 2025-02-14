@@ -1,0 +1,218 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Labcamp-Tutorial
+X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALDESC:This is a calendar with fictional meetings for the Labcamp tut
+ orial.
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:GMT+2
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:GMT+1
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20250108T090000
+DTEND;TZID=Europe/Berlin:20250108T100000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+DTSTAMP:20250214T131759Z
+UID:43mitci1ri5u39eq3u8po1cg4e@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/ekc-bvsx-fou
+CREATED:20250107T123041Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/ek
+ c-bvsx-fou\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20250107T130032Z
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20250109T110000
+DTEND;TZID=Europe/Berlin:20250109T120000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+DTSTAMP:20250214T131759Z
+UID:651jg231qaagcb1a0osi5pha6o@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/pnq-dopd-uij
+CREATED:20250107T123123Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/pn
+ q-dopd-uij\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20250107T130102Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20250109T140000
+DTEND;TZID=Europe/Berlin:20250109T150000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+DTSTAMP:20250214T131759Z
+UID:5ugu1a1mtt352ovvr2na6m8ses@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/zot-poue-shn
+CREATED:20250107T123112Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/zo
+ t-poue-shn\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20250107T130117Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20250110T113000
+DTEND;TZID=Europe/Berlin:20250110T120000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+DTSTAMP:20250214T131759Z
+UID:4b38cr3iovcnj5op54mej09tro@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/dsm-vqxr-nsc
+CREATED:20250107T123455Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/ds
+ m-vqxr-nsc\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20250107T130138Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20250107T090000
+DTEND;TZID=Europe/Berlin:20250107T100000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+DTSTAMP:20250214T131759Z
+UID:6j7vs795916nq3nqe7vqto7asn@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/eap-qckq-zzx
+CREATED:20250107T130212Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/ea
+ p-qckq-zzx\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20250107T130228Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20250107T103000
+DTEND;TZID=Europe/Berlin:20250107T113000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+DTSTAMP:20250214T131759Z
+UID:2nprvf9fa75ana2v77g470qt6t@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/exn-wqzp-ooc
+CREATED:20250107T130257Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/ex
+ n-wqzp-ooc\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20250107T130257Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20250107T140000
+DTEND;TZID=Europe/Berlin:20250107T150000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+DTSTAMP:20250214T131759Z
+UID:3ruaj89o4b4gfk7p8ms9h4c038@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/ynz-wowk-wtk
+CREATED:20250107T130325Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/yn
+ z-wowk-wtk\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20250107T130325Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20250106T103000
+DTEND;TZID=Europe/Berlin:20250106T113000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+DTSTAMP:20250214T131759Z
+UID:60v8ub1klbo0b2c9dc2k67oc9k@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/owz-zrtz-zya
+CREATED:20250107T130400Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/ow
+ z-zrtz-zya\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20250107T130400Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20250106T150000
+DTEND;TZID=Europe/Berlin:20250106T160000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+DTSTAMP:20250214T131759Z
+UID:0b13lm74b7cvjrg1t0db24b5nm@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/ygg-unnb-exy
+CREATED:20250107T130418Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/yg
+ g-unnb-exy\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20250107T130418Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20250106T163000
+DTEND;TZID=Europe/Berlin:20250106T173000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+DTSTAMP:20250214T131759Z
+UID:3ad3nqo8eg7r5k5e6af2r8l6mb@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/wan-rrtg-xsm
+CREATED:20250107T130442Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/wa
+ n-rrtg-xsm\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20250107T130442Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meeting
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
